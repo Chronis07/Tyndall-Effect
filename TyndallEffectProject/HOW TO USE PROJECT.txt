@@ -1,0 +1,41 @@
+HOW TO USE
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+How to run the code:
+
+1.	Open the directory containing the Master.java file in terminal. (It will be in the src folder)
+
+2.	Then enter the following lines to compile the code: >> ” javac Master.java ”
+
+3.	Once it has compiled, enter the following lines to run the code: >> “ java Master ”
+
+4.	The code will then run and display " IMAGE COMPLETED :) " when finished.
+
+5.	It will generate an IMAGE.png file in the src directory which will contain the rendered image
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+Customizability:
+
+1. 	There are 4 variables you can edit to customize the tyndall effect:
+		a.	Steps
+		b.	delta
+		c.	enhance
+		d.	Method
+
+2.	These 4 global variables that can be edited at the top of the Tracer2.java file.
+
+3.	Steps will change the number of points used per Ray.
+
+4.	delta will change the distance between the points in the ray (intensity increases when points are closer)
+
+5.	enhance will affect the factor by which the pixel color is scaled
+
+6.	Method is either a 0 or 1 value, 
+		a.	0 -> equidistant ray marching method
+		b.	1 -> randomized ray marching method
+
+--------------------------------------------------------------------------------------------------------------------------------------
