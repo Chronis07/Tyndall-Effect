@@ -5,6 +5,8 @@ ray tracer to simulate the “Tyndall Effect” that occurs from the scattering 
 due to particles in its medium. A scene with a foggy/dusty room with a window for 
 light source will be generated to display the Tyndall effect.
 
+![Target image](Tyndall_effect_target.jpg)
+
 ## Approach
 
 The approach taken to accomplish this is to implement Ray marching over the ray 
