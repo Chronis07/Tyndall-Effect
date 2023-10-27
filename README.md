@@ -46,8 +46,8 @@ value:
 
 Ray marching without randomness:
 
-![Ray marching without randomness](Tyndall_effect_target.jpg)
+![Ray marching without randomness](RM.png)
 
 Ray marching with randomness:
 
-![Ray marching with randomness](Tyndall_effect_target.jpg)
+![Ray marching with randomness](RM_rand_50_Steps.png)
