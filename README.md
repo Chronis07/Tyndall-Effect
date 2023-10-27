@@ -12,7 +12,7 @@ The primary objective was to recreate the following image:
 ## Approach
 
 The approach taken to accomplish this is to implement Ray marching over the ray 
-tracing method taught in this semester. The ray tracer is used to recreate the silhouette 
+tracing method. The ray tracer is used to recreate the silhouette 
 of the window on the floor. Then Ray marching is used to generate the God rays from 
 a point light source through the window.
 
